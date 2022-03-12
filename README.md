@@ -3,6 +3,8 @@ Uses Fastled.h library package and Thread.h library packaage
 https://github.com/FastLED/FastLED
 https://github.com/ivanseidel/ArduinoThread
 
+All effort of this was goes to all of my coursemates and who guided.
+
 You can find sample demostration video of this light bord following this link. 
 https://photos.app.goo.gl/7NoCdSDeRCNajHuo9
 
